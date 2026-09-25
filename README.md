@@ -247,3 +247,10 @@ The dashboard helps answer questions such as:
 * Which categories have the highest installations?
 * What is the distribution of free and paid applications?
 * How are application
+
+
+<img width="1319" height="744" alt="image" src="https://github.com/user-attachments/assets/a84e9638-6b9f-4b8a-9aff-4ea26ccedf12" />
+<img width="1329" height="743" alt="image" src="https://github.com/user-attachments/assets/eeb73ce9-a04b-4d08-a068-5599f52c7a47" />
+<img width="1323" height="743" alt="image" src="https://github.com/user-attachments/assets/a0a84514-daa3-4ec5-a0ac-7d0bd794e3c3" />
+
+
